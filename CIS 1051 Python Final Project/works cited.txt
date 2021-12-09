@@ -1,0 +1,15 @@
+Works Cited
+
+Wavetable Synthesizer: binding the oscillator to the graph
+
+	https://www.youtube.com/watch?v=4QQdAT3uxmc
+
+Reverb and Delay
+
+	https://www.youtube.com/watch?v=NzYzxY1WaQU
+
+	https://www.youtube.com/watch?v=ZuB3CtkUFEE
+
+Abstraction: Send and Recieve functions in PD
+
+	https://www.youtube.com/watch?v=ngh7p8US4Hc
